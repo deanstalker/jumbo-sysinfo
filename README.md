@@ -25,7 +25,7 @@ bin/main-windows-386.exe | ConvertFrom-Json
 Open a terminal
 
 ```
-sudo bin/main-freebsd-386.exe
+sudo bin/main-freebsd-386
 ```
 
 *Linux*
